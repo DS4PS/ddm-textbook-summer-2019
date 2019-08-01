@@ -3,6 +3,7 @@ title: "Information Blindness"
 ---
 
 Team 1
+
 ***Duhigg Ch8 Charlotte Fludd data room- 
 
 ***Meirer Ch2- Big Data and Humanitarian Response - Kirsten 
