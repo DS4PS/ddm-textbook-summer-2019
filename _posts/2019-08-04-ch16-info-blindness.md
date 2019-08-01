@@ -3,12 +3,9 @@ title: "Information Blindness"
 ---
 
 Team 1
+***Duhigg Ch8 Charlotte Fludd data room- 
 
-
-## References
-
-* Duhigg, C. (2016). Smarter faster better: The secrets of being productive. Random House. **CH8 Charlotte Fludd pp 247-252, the data room 252-256**  
-* Meier, P. (2015). Digital humanitarians: how big data is changing the face of humanitarian response. Routledge. **CH2 the rise of big crisis data pp 25-31**  
+***Meirer Ch2- Big Data and Humanitarian Response - Kirsten 
 
 We have all noted that that little button on social media platforms asking us to share our location (Geo-tag). What does that button mean to crisis mapper? Simply put it means that your location at the time of a tweet post can be mapped AUTOMATICALLY. No digging needed.  About according to Meier about 3% of the Twitter population chooses to “share” their location when tweeting. Remember that a Tweet is just like an SMS message on a cell phone. Moreover we see that geo-tagged tweets, correlate to the presence of electricity. Other platforms then Twitter are also discussed such as Whatsapp and Google+ all with the same concepts. In 2013 there were more mobile phone users in the world then there where people… so I imagine by now that number has tripled. 
 
@@ -18,5 +15,11 @@ A few take a ways:
     •	Information is just as important as food, water and shelter in today’s changing world. 
     •	Big Data is extremely useful in a Disaster situation as it comes in many formats, which boil down usually to SMS. 
     •	Disaster communities are also Digital communities. 
+	
+***Pentland Ch7 Organizational Change- 
 
+## References
+
+* Duhigg, C. (2016). Smarter faster better: The secrets of being productive. Random House. **CH8 Charlotte Fludd pp 247-252, the data room 252-256**  
+* Meier, P. (2015). Digital humanitarians: how big data is changing the face of humanitarian response. Routledge. **CH2 the rise of big crisis data pp 25-31**  
 * Pentland, A. (2015). Social Physics: How social networks can make us smarter. Penguin. **CH7 organizational change**  
