@@ -19,6 +19,13 @@ A few take a ways:
 	
 ***Pentland Ch7 Organizational Change- 
 
+It’s 2009 and you are part of a team that is competing the Defense Advanced Research Projects Agency’s (DARPA) Red Balloon Challenge. This is a $40,000 competition that challenges teams to locate 10 red balloons in undisclosed locations within the continental United States. A team from MIT won in a time of less than 7 hours, truly amazing for such a difficult task covering thousands of miles from coast to coast.
+
+So how did the MIT team win? And how did they win in such a short amount of time? The team used a strategy of referrals. In short, if a person found a balloon, the MIT team would use $2000 of the prize money as a reward. But if somebody referred that person who found the balloon, then they would win $1,000. were there other factors used to motivate team members in this task other than money? Definitely. This multi-level social networking strategy worked well for them.
+
+Deciphering if submissions of balloon locations proved to be vitally important. Trust was developed over time with frequent interactions between members of the team. The MIT team felt that building human capital, so to speak, through social networks was a key to winning. Perhaps, this is the biggest takeaway from this chapter… that trust amongst team members is just as important, if not more, than developing an intricate network of systems reliant on technology. 
+
+
 ## References
 
 * Duhigg, C. (2016). Smarter faster better: The secrets of being productive. Random House. **CH8 Charlotte Fludd pp 247-252, the data room 252-256**  
