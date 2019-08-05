@@ -34,6 +34,12 @@ The fourth method implemented is to base things off science, teenagers fill out 
 
 ### Using Big Data to Engineer a Better World
 
+A variety of examples of how data is used to engineer a better world are presented in chapter four of Reality Mining.  Participatory sensory projects, such as Serendipity, serve to mediate interactions in large companies or conferences.  Data is collected identifying where a person is and what his/her interests are.  When a match is identified, each participant is asked if they want to be connected.  Only after consent, are the individuals connected.  From this idea came the dating app MetroSpark which also requires consent. The key to big data adding value to a community comes only with contributions from the population.  When the benefits are clear and privacy is maintained, people are more willing to share personal data to better their community.  
+
+Knowledge-brokering systems, such as Tacit, are created to facilitate the sharing of knowledge, interests, and relationships to increase workplace efficiencies. Tacit requires user confirmation in order to share identifying information.  
+
+Other ways mobile phones can improve the overall health of a community include applications to report blight to City departments, as well as running, cycling, and commuting routes.  Behavior of people in neighborhoods correlated to traffic, air pollution or other environmental data could be useful.  Health officials and doctors are interested in collecting data to identify systematic stressors in poor neighborhoods. Collecting data such as routes to school and wait time for public transit, from children’s cell phones could help identify ways to alleviate stressors.  While many people may not be comfortable with their children being tracked, phone cost subsidies could be offered along with a trusted community member introducing the idea.  
+
 
 ## Key Take-Aways (for Yellowdig)
 
