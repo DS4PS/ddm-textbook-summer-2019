@@ -5,6 +5,13 @@ title: "Managerial Experiments"
 Team 5
 
 ## Topic Overview
+We live in a culture that is driven by data. Over the past few decades the amount of information that has become available to us has skyrocketed. Technological advances have made it easier to provide data right in the palm of our hands. Technology such as software, smartphones, websites, digital maps and apps to manage our schedules. “Data can be transformative” (p.241) if those using the data know how to properly utilize it. It can be a powerful tool, but only if harness correctly.
+
+One thing that hasn’t changed is that “our ability to learn from information hasn’t necessarily kept pace with its proliferation” (p. 243). In other words, we can accurately measure how much calories we consume in a day but how much does your cholesterol scores improve every week, month or year? We can improve our lives by making our days more productive, eating healthier, making education much more effective and our lives less stressful if we learn to harness these powerful tools.
+
+What we currently suffer from is data overload, so much information makes it difficult to make decisions. This inability to make the best of the data we receive as it becomes more and more readily available is often referred to as “Information Blindness.” Each person’s minds will eventually reach a breaking point and when this occurs people start to ignore options, make bad choices or stop interacting with the information altogether.
+
+We as humans can do a great job of absorbing information, if we break down the data into smaller meaningful pieces. When we do this, it is referred to as “Winnowing,” or “Scaffolding.” This process is the ability to break things down like you would a file cabinet and organize everything into folders and subfolders alphabetically, numerically or whichever method makes things easier to process. According to Eric Johnson a cognitive psychologist from Columbia University who studies decision making, “Our brains crave reducing things to two or three options” (p. 245).
 
 
 ## Chapter Summaries
