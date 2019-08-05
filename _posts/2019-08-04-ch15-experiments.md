@@ -25,6 +25,11 @@ When the Elementary Initiative was implemented it forced the teachers to work wi
 
 
 ### How Iceland Saved its Teenagers
+This video covers how teenagers in Iceland were out of control through the 1980’s and 1990’s. In 1998 roughly 42% of those teenagers surveyed said they had gotten drunk and became a focal point due to having the worst numbers in Europe when it came to drinking, smoking and drug abuse. Since then this number has dramatically reduced to just 5% and Iceland has become one of the best areas in Europe. They did this by only utilizing 5 methods.
+
+The first method was to create a curfew for teenagers which meant that youth under 16 years of age must be in doors by 10:00 p.m., and in some place’s parents patrolled the neighborhoods. Secondly, the parents signed a pledge which covered rules that they agreed to for their children’s behavior. Some of the rules included, not to allow their children to consume alcohol and creating more family time. Third, parents had to keep their children occupied and in doing so families received a $500 voucher annually for each child to utilize on afterschool activities. 
+
+The fourth method implemented is to base things off science, teenagers fill out a survey on an annual basis. Data gathered covers different aspects of their lives such as relationships with peers and family, as well as substance use and how they feel. A report is created for each community and within two months of the survey each school has a finalized report of the findings, which then gives them the opportunity to fix things if needed. Finally, it is important to get the politicians involved, Iceland spends over 100 million a year on youth activities. Everyone is involved, from the teachers, to the parents, the youth and the politicians when it comes to building or creating a new program for the community. This model developed in Iceland has expanded to over 35 cities in Europe.
 
 
 ### Using Big Data to Engineer a Better World
