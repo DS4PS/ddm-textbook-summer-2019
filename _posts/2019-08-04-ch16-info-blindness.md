@@ -6,6 +6,12 @@ Team 1
 
 ***Duhigg Ch8 Charlotte Fludd data room- 
 
+We are using data in ways that helps us gain an true understanding of industry specifics needs such as education, meals, maps, commuting, medical needs, health and so many other choices that affect our day. Our days revolve around these items that are constinetly using data to evolve and create more efficent ways of living, through data we are answering questions on how to live better and be more efficent, and we are also finding new qestions to ask that helps us use data in other ways.
+
+What I like most about this chapter is seeing both sides of what data is doing. It is said that having all of this data around us should make our lives easier, we should be more aware of the right choices to make and how to be more aware of what those choices mean. In fact that is not necessarily the case. We are surrounded by so much data that using is becomes paralzying in ways and we cant associated it with using the data to then make the right decisions. 
+
+One of my take aways is truly thinking about the task at hand and staying away from information blindness. I think that as we continue to use data and process it that we will have a better understanding about how to use it effectively and not be overwhelmed by it. 
+
 ***Meirer Ch2- Big Data and Humanitarian Response - Kirsten 
 
 We have all noted that that little button on social media platforms asking us to share our location (Geo-tag). What does that button mean to crisis mapper? Simply put it means that your location at the time of a tweet post can be mapped AUTOMATICALLY. No digging needed.  About according to Meier about 3% of the Twitter population chooses to “share” their location when tweeting. Remember that a Tweet is just like an SMS message on a cell phone. Moreover we see that geo-tagged tweets, correlate to the presence of electricity. Other platforms then Twitter are also discussed such as Whatsapp and Google+ all with the same concepts. In 2013 there were more mobile phone users in the world then there where people… so I imagine by now that number has tripled. 
