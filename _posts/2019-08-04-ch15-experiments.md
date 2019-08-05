@@ -43,6 +43,11 @@ Other ways mobile phones can improve the overall health of a community include a
 
 ## Key Take-Aways (for Yellowdig)
 
+In general, people are great at absorbing data and are not skilled at transforming it into something useful. This can be attributed to data overload. Key is to use the data we collect in a meaningful way.
+
+Iceland collected a great deal of data as they studied underage drinking, the most useful data was collected from the subjects themselves (students). 
+
+Data can be used to better communities, improve effeciencies, and connect people.  Trust in privacy is increasing and individual use consent is imperative.  
 
 ### Discussion Questions
 
