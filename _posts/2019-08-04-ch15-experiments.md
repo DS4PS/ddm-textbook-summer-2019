@@ -51,6 +51,11 @@ Data can be used to better communities, improve effeciencies, and connect people
 
 ### Discussion Questions
 
+To what degree should analytic audits be done on data collected to identify the integrity and quality of the data? (Is the data accurate and can we trust it?)
+
+How do we ensure the privacy of data collected but also the accessibility of it by people that can use it (for good)?
+
+Are you more comfortable providing personal data to better a community's health arena versus providing data for social arenas?  Or are you equally uncomfortable providing personal data for both scenarios? 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cDbD_JSCrNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
