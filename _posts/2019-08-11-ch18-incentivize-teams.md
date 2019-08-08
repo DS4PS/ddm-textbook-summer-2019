@@ -24,9 +24,11 @@ employees collect information and share it within their organization. He finds t
 engaged are most often able to convince others of new concepts and ideas. 
 
 ### Questions: 
-1. Do you feel that your network of friends, family, colleagues, and coworkers influence your behavior, beliefs, habits, or decision-making? 
+1. Do you feel that your network of friends, family, colleagues, and coworkers influence your behavior, beliefs, habits, or
+decision-making? 
 2. (Self-reflection question...) Does your current network positively influence your idea flow and self-development?
-3. I am sure you have had the experience of sitting through a long meeting. Would you be more engaged if you were being graded on your behavior during a meeting using a device like the Meeting Mediator? 
+3. I am sure you have had the experience of sitting through a long meeting. Would you be more engaged if you were being graded
+on your behavior during a meeting using a device like the Meeting Mediator? 
 4. How would your employees feel about using Meeting Mediator or a similar device during meetings?  
 
 ## References
