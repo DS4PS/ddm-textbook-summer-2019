@@ -6,7 +6,7 @@ Team 3: Cody Lundell, Christina Worden, Dan Gabiou
 
 ## Topic Overview
 
-Idea flow, collective intelligence, and shaping organizations may seem like strange subcategories of incentivising teams.  Pentland (2015) discuss how productive, motivated, and satisfied employees can easily be incentivized through social physics.  When ideas flow well through an organization then intelligence is built.  Collective intelligence requires all team members to be engaged and explorative.  The entire organization must be in-tune with one another and share equal conversation representation.  And organizations must shaped through visualization of interactive patterns.  
+Idea flow, collective intelligence, and shaping organizations may seem like strange subcategories of incentivising teams.  Pentland (2015) discuss how productive, motivated, and satisfied employees can easily be incentivized through social physics.  When ideas flow well through an organization then intelligence is built.  Collective intelligence requires all team members to be engaged and explorative.  The entire organization must be in-tune with one another and share equal conversation representation.  And organizations must shaped through visualization of interactive patterns.  Information must be collected and shared with energy and diversity must be embraced.  A team of quiet individuals agreeing with the “boss” will lack creativity and undoubtedly only produce sluggish idea flow.  Individuals are only successful as the collective.  This brings us back to there being  no “i” in team and only together can we achieve success. 
 
 ## Chapter Summaries
 
