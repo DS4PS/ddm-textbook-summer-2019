@@ -2,7 +2,11 @@
 title: "Incentivizing Teams"
 ---
 
-Team 3
+Team 3: Cody Lundell, Christina Worden, Dan Gabiou
+
+## Topic Overview
+
+
 
 ## Chapter Summaries
 
@@ -34,7 +38,9 @@ decision-making?
 2. (Self-reflection question...) Does your current network positively influence your idea flow and self-development?
 3. I am sure you have had the experience of sitting through a long meeting. Would you be more engaged if you were being graded
 on your behavior during a meeting using a device like the Meeting Mediator? 
-4. How would your employees feel about using Meeting Mediator or a similar device during meetings?  
+4. How would your employees feel about using Meeting Mediator or a similar device during meetings? 
+5. How can we teach team members to be perceptive to one another’s social signals?
+6. Can a team respect organizational positions and have equality in communication? How?
 
 ## References
 
