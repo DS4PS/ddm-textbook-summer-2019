@@ -4,7 +4,7 @@ title: "Information Blindness"
 
 Team 1
 
-***Duhigg Ch8 Charlotte Fludd data room- 
+**Duhigg Ch8 Charlotte Fludd data room**
 
 We are using data in ways that helps us gain an true understanding of industry specifics needs such as education, meals, maps, commuting, medical needs, health and so many other choices that affect our day. Our days revolve around these items that are constinetly using data to evolve and create more efficent ways of living, through data we are answering questions on how to live better and be more efficent, and we are also finding new qestions to ask that helps us use data in other ways.
 
@@ -12,7 +12,7 @@ What I like most about this chapter is seeing both sides of what data is doing. 
 
 One of my take aways is truly thinking about the task at hand and staying away from information blindness. I think that as we continue to use data and process it that we will have a better understanding about how to use it effectively and not be overwhelmed by it. 
 
-***Meirer Ch2- Big Data and Humanitarian Response - Kirsten 
+**Meirer Ch2- Big Data and Humanitarian Response** 
 
 We have all noted that that little button on social media platforms asking us to share our location (Geo-tag). What does that button mean to crisis mapper? Simply put it means that your location at the time of a tweet post can be mapped AUTOMATICALLY. No digging needed.  About according to Meier about 3% of the Twitter population chooses to “share” their location when tweeting. Remember that a Tweet is just like an SMS message on a cell phone. Moreover we see that geo-tagged tweets, correlate to the presence of electricity. Other platforms then Twitter are also discussed such as Whatsapp and Google+ all with the same concepts. In 2013 there were more mobile phone users in the world then there where people… so I imagine by now that number has tripled. 
 
@@ -23,7 +23,7 @@ A few take a ways:
     •	Big Data is extremely useful in a Disaster situation as it comes in many formats, which boil down usually to SMS. 
     •	Disaster communities are also Digital communities. 
 	
-***Pentland Ch7 Organizational Change- 
+**Pentland Ch7 Organizational Change** 
 
 It’s 2009 and you are part of a team that is competing the Defense Advanced Research Projects Agency’s (DARPA) Red Balloon Challenge. This is a $40,000 competition that challenges teams to locate 10 red balloons in undisclosed locations within the continental United States. A team from MIT won in a time of less than 7 hours, truly amazing for such a difficult task covering thousands of miles from coast to coast.
 
